@@ -1,0 +1,82 @@
+{
+  "Product": [
+    {
+      "id": 201,
+      "name": "Ultra-Slim Business Laptop (14-inch)",
+      "price": 1399.99,
+      "quantity": 18,
+      "imgUrl": "https://dummyimage.com/600x400/000/fff&text=Laptop_Slim.png",
+      "catId": 1
+    },
+    {
+      "id": 202,
+      "name": "Flagship Smartphone (Model P10)",
+      "price": 1099.00,
+      "quantity": 45,
+      "imgUrl": "https://dummyimage.com/400x600/000/fff&text=Smartphone_P10.png",
+      "catId": 2
+    },
+    {
+      "id": 203,
+      "name": "Curved Gaming Monitor (27-inch, 144Hz)",
+      "price": 389.50,
+      "quantity": 22,
+      "imgUrl": "https://dummyimage.com/700x500/000/fff&text=Monitor_Curved.png",
+      "catId": 3
+    },
+    {
+      "id": 204,
+      "name": "Wireless Ergonomic Mouse",
+      "price": 55.99,
+      "quantity": 85,
+      "imgUrl": "https://dummyimage.com/400x300/000/fff&text=Mouse_Ergo.png",
+      "catId": 3
+    },
+    {
+      "id": 205,
+      "name": "Premium Over-Ear Headphones (ANC)",
+      "price": 349.99,
+      "quantity": 30,
+      "imgUrl": "https://dummyimage.com/500x500/000/fff&text=Headphones_ANC.png",
+      "catId": 4
+    },
+    {
+      "id": 206,
+      "name": "Portable Bluetooth Speaker (Waterproof)",
+      "price": 79.50,
+      "quantity": 55,
+      "imgUrl": "https://dummyimage.com/450x450/000/fff&text=Speaker_BT.png",
+      "catId": 4
+    },
+    {
+      "id": 207,
+      "name": "Stand Mixer Pro (7 Quart)",
+      "price": 289.00,
+      "quantity": 14,
+      "imgUrl": "https://dummyimage.com/550x550/000/fff&text=Mixer_Kitchen.png",
+      "catId": 5
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "name": "Computing & Laptops"
+    },
+    {
+      "id": 2,
+      "name": "Smartphones & Tablets"
+    },
+    {
+      "id": 3,
+      "name": "Peripherals & Monitors"
+    },
+    {
+      "id": 4,
+      "name": "Audio Equipment"
+    },
+    {
+      "id": 5,
+      "name": "Home & Kitchen Appliances"
+    }
+  ]
+}
